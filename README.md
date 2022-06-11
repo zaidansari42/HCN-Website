@@ -1,5 +1,4 @@
 # HCN-Website
-I have made a HCN Website using HTML and CSS
 
 I have made a HCN Website using HTML and CSS
 
