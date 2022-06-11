@@ -128,7 +128,7 @@ h2 {
 
 div.hero {
   background-color: #333;
-  background-image: url(/img/hero-bg.jpg);
+  background-image: url(../hero-bg.jpg);
   background-attachment: fixed;
   background-blend-mode: multiply;
   color: #fff;
@@ -172,7 +172,7 @@ h4 {
 }
 
 div.diff_1 {
-  background-image: url(/img/granola-bg.jpg);
+  background-image: url(../granola-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
